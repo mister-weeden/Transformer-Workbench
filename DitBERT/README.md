@@ -5,14 +5,12 @@ This folder contains code for my own BERT-like model *DitBERT*.
 
 For more details see the corresponding blogpost
 
-- here <https://martin-dittgen.de/blogpost/training-ditbert.html>
-- or here <https://medium.com/@martin.p.dittgen/training-a-bert-model-from-scratch-on-a-single-nvidia-rtx-3060-1a7a2b1039a5>
+- here <https://scottweeden.online/machine-learning/training-ditbert>
 
 
 The pre-trained *DitBERT* model and tokenizer can be downloaded from:
 
-- <https://martin-dittgen.de/downloads/DitBERT-with-tokenizer.zip>
-- Mirror: <https://storage.googleapis.com/transformer-from-scratch-results/DitBERT-with-tokenizer.zip>
+- <https://scottweeden.online/wp-content/DitBERT-with-tokenizer.zip>
 
 All raw GLUE-Output csv-files are in the git repository as well. You can find them in the subfolder *GLUE-Outputs*.
 
